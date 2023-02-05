@@ -261,8 +261,8 @@ variables. Examine the new variables.
 -   Are there any z-scores greater than 2 in the LOSS and FOSS
     variables? How many?
 
-    -   LOSS z-score \> 2: 1
-    -   FOSS z-score \> 2: 2
+    -   LOSS z-score \> 2: 1 (absolute value \>2 = 4)
+    -   FOSS z-score \> 2: 2 (absolute value \>2 = 4)
 
 -   What does it mean if a z-score is positive or negative?
 
